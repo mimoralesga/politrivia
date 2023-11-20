@@ -1,0 +1,212 @@
+<questions>
+    <question>
+        <statement>¿Qué significa CSS en desarrollo web?</statement>
+        <answers>
+            <answer>
+                <statement>Central Style Sheet</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Computer Style Sheet</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Cascading Style Sheet</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Creative Style Sheet</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cómo se selecciona un elemento HTML con ID en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>#elemento {}</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>.elemento {}</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>elementoID {}</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>*elemento {}</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la propiedad CSS que se utiliza para cambiar el color del texto?</statement>
+        <answers>
+            <answer>
+                <statement>color</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>text-color</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>font-color</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>text-style</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Qué propiedad se utiliza para cambiar el tipo de letra en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>font-family</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>text-family</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>type-font</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>font-style</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cómo se establece el margen izquierdo de un elemento en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>margin-left</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>padding-left</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>margin-right</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>padding-right</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la función de la propiedad "display" en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>Controlar el tamaño del elemento.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Especificar el diseño de visualización del elemento.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Definir el espaciado interno del elemento.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Ocultar un elemento en la página.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Qué propiedad se utiliza para agregar sombras a los elementos en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>box-shadow</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>element-shadow</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>shadow-effect</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>text-shadow</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cómo se hace referencia a todos los elementos de un mismo tipo en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>.elemento {}</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>#elemento {}</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>*elemento {}</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>element {}</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la función de la propiedad "position" en CSS?</statement>
+        <answers>
+            <answer>
+                <statement>Establecer el color de fondo.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Controlar la posición de un elemento en la página.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Definir la alineación del texto.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Cambiar la opacidad del elemento.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Qué significa la sigla "CSS3" en el contexto de desarrollo web?</statement>
+        <answers>
+            <answer>
+                <statement>Computer Style Sheet 3.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Cascading Style Sheet Level 3.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Central Style Sheet 3.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Creative Style Sheet Level 3.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+</questions>

@@ -1,0 +1,212 @@
+<questions>
+    <question>
+        <statement>¿Qué es HTML?</statement>
+        <answers>
+            <answer>
+                <statement>High Tech Modern Language</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Hyper Text Markup Language</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Home Tool Management Language</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Hyperlink Text Manipulation Language</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la etiqueta HTML básica para crear un encabezado?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;body&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;header&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;h1&gt;</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>&lt;p&gt;</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cómo se crea un enlace a otra página web en HTML?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;link&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;href&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;web&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;a href="url"&gt;</statement>
+                <right>true</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Qué etiqueta se utiliza para crear una lista desordenada en HTML?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;ol&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;ul&gt;</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>&lt;li&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;dl&gt;</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la etiqueta para insertar una imagen en una página HTML?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;img&gt;</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>&lt;image&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;picture&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;src&gt;</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cómo se comenta código HTML para que no se muestre en el navegador?</statement>
+        <answers>
+            <answer>
+                <statement>// Comentario</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>/* Comentario */</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement># Comentario</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;!-- Comentario --&gt;</statement>
+                <right>true</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Qué significa la sigla "URL" en el contexto de HTML?</statement>
+        <answers>
+            <answer>
+                <statement>Universal Reference Link</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Uniform Resource Locator</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Unified Resource Locator</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Unique Reference Link</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la etiqueta HTML para crear un párrafo de texto?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;para&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;text&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;p&gt;</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>&lt;paragraph&gt;</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cuál es la etiqueta HTML para crear una tabla?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;tab&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;grid&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;chart&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;table&gt;</statement>
+                <right>true</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>¿Cómo se crea un salto de línea en HTML?</statement>
+        <answers>
+            <answer>
+                <statement>&lt;br&gt;</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>&lt;nl&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;linebreak&gt;</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>&lt;newline&gt;</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+</questions>

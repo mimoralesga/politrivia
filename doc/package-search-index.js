@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"politrivia","l":"com.politirivia.politrivia.domain"},{"m":"politrivia","l":"com.politirivia.politrivia.service"},{"m":"politrivia","l":"com.politrivia.politrivia"},{"m":"politrivia","l":"tests.com.politrivia.politrivia.domain"}];updateSearchResults();

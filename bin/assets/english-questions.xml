@@ -1,0 +1,212 @@
+<questions>
+    <question>
+        <statement>What is the past sentence of the verb send?</statement>
+        <answers>
+            <answer>
+                <statement>Sended</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Sent</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Sented</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Send</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>Which of the following sentences is correctly written?</statement>
+        <answers>
+            <answer>
+                <statement>I am at the entrance.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>I am in the entrance.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>I am on the entrance.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>I am in to the entrance.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>What is the difference between "affect" and "effect"?</statement>
+        <answers>
+            <answer>
+                <statement>Affect is a noun, effect is a verb.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Affect is a verb, and effect is a noun.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Affect and effect can be used interchangeably.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Affect and effect have the same meaning.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>Can you explain the use of the present perfect tense in English?</statement>
+        <answers>
+            <answer>
+                <statement>It is used to describe actions completed in the future.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>It is used to express actions that started in the past and continue into the present.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>It is used for actions that occurred at a specific point in the past.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>It is used exclusively for future events.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>What are some common irregular verbs in English and their past tense forms?</statement>
+        <answers>
+            <answer>
+			    <statement>Run - ran, eat - ate, swim - swam.</statement>
+			    <right>true</right>
+			</answer>
+			<answer>
+			    <statement>Go - went, have - had, speak - spoke.</statement>
+			    <right>true</right>
+			</answer>
+			<answer>
+			    <statement>Take - took, write - wrote, do - did.</statement>
+			    <right>true</right>
+			</answer>
+			<answer>
+			    <statement>Drive - drove, read - read, give - gave.</statement>
+			    <right>true</right>
+			</answer>
+        </answers>
+    </question>
+    <question>
+        <statement>How do you use the articles "a," "an," and "the" correctly in sentences?</statement>
+        <answers>
+            <answer>
+                <statement>"A" is used before words that start with a vowel, and "an" before words that start with a consonant.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>"An" is used before words that start with a vowel, and "a" before words that start with a consonant.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>"The" is used before specific nouns, while "a" and "an" are used for general nouns.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>"The" is used for general nouns, while "a" and "an" are used for specific nouns.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>Explain the difference between "much" and "many" and provide examples of their usage.</statement>
+        <answers>
+            <answer>
+                <statement>"Much" is used with countable nouns, and "many" is used with uncountable nouns.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>"Much" is used with uncountable nouns, and "many" is used with countable nouns.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>"Much" and "many" can be used interchangeably.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Both "much" and "many" are used only with singular nouns.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>What is the rule for forming plural nouns in English?</statement>
+        <answers>
+            <answer>
+                <statement>Add -s to the end of the noun.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Remove the last letter and add -ies.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>No specific rule; it varies for each noun.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Double the last letter and add -es.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>When do we use "who" versus "whom" in a sentence?</statement>
+        <answers>
+            <answer>
+                <statement>"Who" is used as the object of a verb or preposition, and "whom" is used as the subject.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>"Whom" is used as the object of a verb or preposition, and "who" is used as the subject.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>"Who" and "whom" can be used interchangeably.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Both "who" and "whom" are only used for formal writing.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+    <question>
+        <statement>Can you give examples of modal verbs and explain their functions in English sentences?</statement>
+        <answers>
+            <answer>
+                <statement>Modal verbs include "can," "could," "may," and "might," and they express ability, possibility, or necessity.</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Modal verbs include "is," "am," "are," and "be," and they indicate past actions.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Modal verbs include "do," "does," "did," and "done," and they emphasize actions.</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Modal verbs include "will," "would," "shall," and "should," and they are used to form questions.</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+</questions>

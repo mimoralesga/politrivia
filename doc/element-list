@@ -1,0 +1,5 @@
+module:politrivia
+com.politirivia.politrivia.domain
+com.politirivia.politrivia.service
+com.politrivia.politrivia
+tests.com.politrivia.politrivia.domain

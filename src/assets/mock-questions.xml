@@ -1,0 +1,23 @@
+<questions>
+    <question>
+        <statement>Question Statement</statement>
+        <answers>
+            <answer>
+                <statement>First Answer Statement</statement>
+                <right>true</right>
+            </answer>
+            <answer>
+                <statement>Second Answer Statement</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Third Answer Statement</statement>
+                <right>false</right>
+            </answer>
+            <answer>
+                <statement>Fourth Answer Statement</statement>
+                <right>false</right>
+            </answer>
+        </answers>
+    </question>
+</questions>
